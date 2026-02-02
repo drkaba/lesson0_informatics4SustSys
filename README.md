@@ -6,4 +6,4 @@ With this lesson we will practice the basic coding concepts discussed in class:
 |------|------|
 |<img src="images/Sequence.png" style="width:400px">|<img src="images/Variables.png" style="width:450px">|
 |Concept 3 - Decisions|Concept 4 - Loops|
-|<img src="images/Decision_FlowChart.png" style="width:400px">|<img src="images/ForLoops.png" style="width:450px">|
+|<img src="images/Decision_FlowChart.png" style="width:400px">|<img src="images/ForLoops.png" style="width:400px">|
