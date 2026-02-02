@@ -1,2 +1,2 @@
-# lesson0_informatics4SustSys
+# Collaborative Coding
 
